@@ -6,8 +6,6 @@
 
 # Execution files and sample files
 dist/
-list.txt
-config.ini
 
 ### macOS ###
 # General
