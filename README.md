@@ -9,7 +9,7 @@
 ## 설정 방법
 1. config.ini 파일을 연다.
 2. 한 명당 NUMBER_OF_IMAGES 수 만큼 가져온다.
-3. NUMBER_OF_IMAGES를 100으로 설정하면 100장 가져온다.
+3. NUMBER_OF_IMAGES를 최대 4장까지 설정가능
 
 ## 현명한 방법
 1. list.txt에 원하는 사람 인스타 주소를 넣는다.
