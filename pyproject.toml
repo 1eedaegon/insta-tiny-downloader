@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "insta-tiny-downloader"
+version = "0.0.1"
+description = ""
+authors = ["이대곤 <d8726243@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyfiglet = "^0.8.post1"
+PyInquirer = "^1.0.3"
+selenium = "^3.141.0"
+webdriver-manager = "^3.2.2"
+pyinstaller = "^4.1"
+
+[tool.poetry.dev-dependencies]
+pylint = "^2.6.0"
+black = {version = "^20.8b1", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
